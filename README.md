@@ -1,0 +1,1 @@
+# chatGPT-digest-tool
